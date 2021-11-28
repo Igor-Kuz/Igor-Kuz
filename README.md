@@ -24,7 +24,6 @@
 **🏦 Databases and storages**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a href="https://aws.amazon.com"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </br>
