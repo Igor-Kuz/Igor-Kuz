@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 
@@ -44,8 +45,9 @@
 
 ### I'm learning
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 
+![Ansiible](https://avatars.steamstatic.com/faaf15f2a8174a968df1d960e643c79b8ec7d44c_medium.jpg)
+![Kubernetes](https://fastenv.io/images/clients-logo/clients-logo-1.png)
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
 
 ### IDE
@@ -58,7 +60,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
 
 **🐱 My Github Data** 
 
@@ -91,6 +93,6 @@
 ```
 
 ```text
-Last Updated on 01/01/2022
+Last Updated on 09/11/2022
 
 ```
